@@ -1,0 +1,24 @@
+# Python
+win_env/
+venv/
+__pycache__/
+*.pyc
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# OS
+.DS_Store
+
+# Misc
+.env
+__MACOSX/
+*.DS_Store
+._*
+*.pt
+win_env/
+.dart_tool/
+build/

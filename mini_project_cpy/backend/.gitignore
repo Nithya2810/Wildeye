@@ -1,0 +1,10 @@
+win_env/
+venv/
+__pycache__/
+*.pyc
+.env
+build/
+dist/
+*.mp4
+*.avi
+*.zip
